@@ -1,6 +1,6 @@
 # Business-Analytics
 
-### Statistical Concepts
+# Statistical Concepts
 
 ## 1. Mean
 - Arithmatic mean/average
