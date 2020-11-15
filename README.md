@@ -8,9 +8,9 @@ https://www.linkedin.com/learning/excel-statistics-essential-training-1-2
 <hr/>
 
 **Population** - A large set of individuals <br/>
-**Parametere** - A characteristic of population<br/> (avg)
+**Parametere** - A characteristic of population(avg)<br/> 
 **Sample** - A set of individuals selected from sample<br/>
-**Stastic** - A measurable characteristic of sample<br/> (x-bar)
+**Stastic** - A measurable characteristic of sample(x-bar)<br/> 
 
 <hr/>
 
