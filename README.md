@@ -42,3 +42,15 @@ P(A|B) = P(A∩B) / P(B)
 - 0 (avg)
 - +ve (above avg)
 - -ve (below avg)
+7. Normal Distribution
+
+## Sampling Disribution
+- random, bias,....
+- Central Limit Theorem (if N>30 use s/root(N))
+- t-distibution
+
+## confidence in estimation
+- alpha
+- intervals
+- critical value (norm.s.inv(alpna/2)) (standard-normal-distribution)
+- t-distribution (t.inv(alpha/2,N-1))
