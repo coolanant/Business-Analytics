@@ -38,8 +38,6 @@ Numbers/formula/date are right aligned<br/>
 
 </details>
 
-<hr/>
-
 # Advanced
 
 * Show Formulas - **Ctrl** ~
