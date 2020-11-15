@@ -94,6 +94,11 @@ Numbers/formula/date are right aligned<br/>
 * norm.dist(F, mean, sd, False) - Normal Distribution (probability density)
 * F, Normal-Dist - scatter graph (continious)
 
+<br/>
+
+- critical value (norm.s.inv(alpna/2)) (standard-normal-distribution)
+- t-distribution (t.inv(alpha/2,N-1))
+
 <hr/>
 
 ### IF
