@@ -89,6 +89,11 @@ Numbers/formula/date are right aligned<br/>
 
 * standaradize(x, mean, standard-deviation) - To calculate z-score
 
+<br/>
+
+* norm.dist(F, mean, sd) - Normal Distribution
+* F, Normal-Dist - scatter graph (continious)
+
 <hr/>
 
 ### IF
