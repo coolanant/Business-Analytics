@@ -87,6 +87,7 @@ Numbers/formula/date are right aligned<br/>
 * stdev.p()
 * stdev.s()
 
+* standaradize(x, mean, standard-deviation) - To calculate z-score
 
 <hr/>
 
