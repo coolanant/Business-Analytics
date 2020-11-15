@@ -35,5 +35,5 @@ P(A|B) = P(A∩B) / P(B)
 3. Mode (highest frequency)
 <br/>
 4. Variance (how much variability you have in a group of numbers)
-* =var.p() -> /n
-* =var.s() -> /n-1
+* =var.p() -> /n   (population)
+* =var.s() -> /n-1   (sample)
