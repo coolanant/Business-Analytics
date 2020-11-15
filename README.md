@@ -33,7 +33,12 @@ P(A|B) = P(A∩B) / P(B)
 1. Mean (avergae)
 2. Median (middle data)
 3. Mode (highest frequency)
-<br/>
 4. Variance (how much variability you have in a group of numbers)
 * =var.p() -> /n   (population)
 * =var.s() -> /n-1   (sample)
+5. V= (standard-deviation)<sup>2</sup>
+6. z-score / standard-score
+- (x-mean)/standard-deviation
+- 0 (avg)
+- +ve (above avg)
+- -ve (below avg)
