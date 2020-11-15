@@ -54,3 +54,18 @@ P(A|B) = P(A∩B) / P(B)
 - intervals
 - critical value (norm.s.inv(alpna/2)) (standard-normal-distribution)
 - t-distribution (t.inv(alpha/2,N-1))
+
+<hr/>
+
+## Hypothesis Testing
+- Type I Error
+- Type II Error
+
+
+<hr/>
+
+## ANOVA (Analysis of variance)
+
+## Regression
+
+## Correlation
