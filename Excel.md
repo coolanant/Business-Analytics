@@ -11,6 +11,14 @@ Every **workbook**(file) has atleast one **worksheet**<br/>
 Every worksheet has same no. of row and col<br/>
 Numbers/formula/date are right aligned<br/>
 
+### Shortcuts
+* Auto Sum - **alt =**
+* Format Cells - **ctrl 1**
+* Chart - **alt f1** / **alt f11**
+* Edges - **Cntrl . **
+
+<hr/>
+
 * Fill Pointer
 * Merge and center
 * Insert/delete/hide/unhide
@@ -19,14 +27,14 @@ Numbers/formula/date are right aligned<br/>
 * Custom Data Types/ power BI
 * Security
 * Sharing/Tracking
+<br/>
 
-### Date and Time
+* Auditing Tools
+* Trace Dependendents
+* Trace Precedents
+* add/multiply values to all
+* define name/var (**f3**)
 
-### Shortcuts
-* Auto Sum - **alt =**
-* Format Cells - **ctrl 1**
-* Chart - **alt f1** / **alt f11**
-* Edges - **Cntrl . **
 
 </details>
 
@@ -37,16 +45,6 @@ Numbers/formula/date are right aligned<br/>
 * Show Formulas - **Ctrl** ~
 * Solve part of formula - **f9**
 * **f4** - absolute variable
-
-<hr/>
-
-* Auditing Tools
-* Trace Dependendents
-* Trace Precedents
-* add/multiply values to all
-* define name/var (f3)
-
-
 
 <hr/>
 
