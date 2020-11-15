@@ -19,8 +19,11 @@
 - positive and negative (Kurtosis)
 
 5. Variance
+- Variance = (standard-deviation) <sup>2</sup>
+- V = (sumation ((x-bar - xi) <sup>2</sup>) )/ N
 
 6. Standard Deviation
+- 
 
 7. Coveriance
 
