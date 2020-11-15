@@ -91,7 +91,7 @@ Numbers/formula/date are right aligned<br/>
 
 <br/>
 
-* norm.dist(F, mean, sd) - Normal Distribution
+* norm.dist(F, mean, sd, False) - Normal Distribution (probability density)
 * F, Normal-Dist - scatter graph (continious)
 
 <hr/>
