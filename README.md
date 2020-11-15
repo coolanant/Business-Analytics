@@ -2,8 +2,8 @@
 
 https://www.linkedin.com/learning/excel-statistics-essential-training-1-2
 ## Stastics
-1. Descriptive - organizing & presenting data
-2. Inferential - make prediction based on sample trends
+1. **Descriptive** - organizing & presenting data
+2. **Inferential** - make prediction based on sample trends
 
 <hr/>
 
@@ -21,3 +21,19 @@ https://www.linkedin.com/learning/excel-statistics-essential-training-1-2
 4. Ratio 
 
 <hr/>
+
+## Probability
+- Probability
+- Conditional Probability
+P(A|B) = P(A∩B) / P(B)
+
+<hr/>
+
+## Statistics
+1. Mean (avergae)
+2. Median (middle data)
+3. Mode (highest frequency)
+<br/>
+4. Variance (how much variability you have in a group of numbers)
+* =var.p() -> /n
+* =var.s() -> /n-1
