@@ -81,6 +81,8 @@ Numbers/formula/date are right aligned<br/>
 
 <br/>
 
+* =var.p() -> /n
+* =var.s() -> /n-1
 
 
 <hr/>
