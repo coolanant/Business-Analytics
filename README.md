@@ -67,5 +67,13 @@ P(A|B) = P(A∩B) / P(B)
 ## ANOVA (Analysis of variance)
 
 ## Regression
+- predict data for another variable (dependent var)
+- = slope(x,y) - m
+- = intercept() - c
+- y=mx+c
+- residual variance (steyx(x,y))<sup>2</sup>)
 
 ## Correlation
+- +ve (inc slope) - ex. height and weight
+- -ve (dec slope) - ex. grade and attendance
+- 0 (flat line) (variable not co-related)
