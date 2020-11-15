@@ -99,6 +99,15 @@ Numbers/formula/date are right aligned<br/>
 - critical value (norm.s.inv(alpna/2)) (standard-normal-distribution)
 - t-distribution (t.inv(alpha/2,N-1))
 
+<br/>
+
+* Regression
+- predict data for another variable (dependent var)
+- = slope(x,y) - m
+- = intercept() - c
+- y=mx+c
+- residual variance (steyx(x,y))<sup>2</sup>)
+
 <hr/>
 
 ### IF
