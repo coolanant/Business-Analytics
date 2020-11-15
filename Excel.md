@@ -108,6 +108,10 @@ Numbers/formula/date are right aligned<br/>
 - y=mx+c
 - residual variance (steyx(x,y))<sup>2</sup>)
 
+<br/>
+
+* Correlation - correl(F, G);
+
 <hr/>
 
 ### IF
