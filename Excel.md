@@ -36,6 +36,8 @@ Numbers/formula/date are right aligned<br/>
 
 * Show Formulas - **Ctrl** ~
 * Solve part of formula - **f9**
+* **f4** - absolute variable
+
 <hr/>
 
 * Auditing Tools
